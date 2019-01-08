@@ -15,7 +15,7 @@ namespace Cineminimum
     {
         public frmAnaSayfa()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void frmAnaSayfa_Load(object sender, EventArgs e)
