@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(709, 450);
             this.Name = "frmAdminSayfa";
-            this.Text = "frmAdminSayfa";
+            this.Text = "frmAdminSayfa(omur)";
             this.ResumeLayout(false);
 
         }
