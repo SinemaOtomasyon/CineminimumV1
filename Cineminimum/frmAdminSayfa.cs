@@ -8,19 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
 namespace Cineminimum
 {
-    public partial class frmAnaSayfa : Form
+    public partial class frmAdminSayfa : Form
     {
-        public frmAnaSayfa()
+        public frmAdminSayfa()
         {
             InitializeComponent();
-        }
-
-        private void frmAnaSayfa_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
